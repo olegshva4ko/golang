@@ -1,0 +1,7 @@
+
+Host my_server
+Hostname 192.168.0.105
+User Oleg
+PubKeyAuthentication yes
+IdentityFile /home/oleg/.ssh/id_rsa.pub
+
